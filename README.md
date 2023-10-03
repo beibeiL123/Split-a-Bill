@@ -1,11 +1,15 @@
 # Split-a-Bill
-<h3> React app for splitting a bill with your friends</h3>
-<h4>App functions</h4>
-<ul><li>add new friend</li>
-<li>split bill with friends</li>
-<li>update the balance</li></ul>
+<h4>Project: Bill Splitting App</h4>
+<p>**Description**: Developed a web application using React, JavaScript, and CSS to simplify bill splitting among friends. The app allows users to add friends, split bills with them, and automatically updates the balance for each friend.</p>
 
-<h4>languages: React, JavaScript, CSS</h4>
+<p>**Key Contributions**:</p>
+<ul>
+<li>Designed and implemented the user interface for adding friends and splitting bills.</li>
+<li>Utilized React to manage the dynamic rendering of friend lists and balance updates.</li>
+<li>Ensured a seamless user experience through responsive CSS styling.</li>
+<li>Collaborated with a team of developers to deliver a user-friendly bill splitting solution.</li>
+</ul>
+
 <h3>homepage</h3>
 
 <img width="683" alt="homepage" src="https://github.com/beibeiL123/Split-a-Bill/assets/91214811/2d40671f-36d1-4558-9690-3cfc1faea99b">
